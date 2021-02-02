@@ -5,7 +5,7 @@ AnyStor NAS의 관리를 위한 메인 관리 화면은 다음과 같습니다.
   
 
 
-![mainview](../.gitbook/assets/mainview.png)   
+![&#xB85C;&#xADF8;&#xC778;&#xD654;&#xBA74;](../.gitbook/assets/mainview.png)   
  \[ 그림 1.2 AnyManager 메인 관리화면 \]
 
 ## 1.2.1 상태 모니터
