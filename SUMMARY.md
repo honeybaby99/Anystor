@@ -1,7 +1,18 @@
 # Table of contents
 
 * [AnyStor 관리자 매뉴얼](README.md)
-* [1 AnyManager – System manager](doc/kor/anymanager/login.md)
-    * [1.1  Logging In/Out](doc/kor/anymanager/login.md)
-    * [1.2  AnyManager 메인 화면](doc/kor/anymanager/mainview.md)
-
+* [1 AnyManager – System manager](_manual/doc/kor/anymanager/login.md)
+    * [1.1  Logging In/Out](_manual/doc/kor/anymanager/login.md)
+    * [1.2  AnyManager 메인 화면](_manual/doc/kor/anymanager/mainview.md)
+* [2 시스템 정보](_manual/doc/kor/systeminfo/status.md)
+    * [2.1 시스템 상태](_manual/doc/kor/systeminfo/status.md)
+    * [2.2  CIFS 상태](_manual/doc/kor/systeminfo/cifs.md)
+    * [2.3  NFS 상태](_manual/doc/kor/systeminfo/nfs.md)
+    * [2.4  디스크 상태](_manual/doc/kor/systeminfo/disk.md)
+    * [2.5 시스템 성능](_manual/doc/kor/systeminfo/system.md)
+    * [2.6 시스템  명세서](_manual/doc/kor/systeminfo/system.md)
+* [3 볼륨 관리(LVM)](_manual/doc/kor/volume/logicaldisk.md)
+    * [3.1  볼륨 관리(LVM) 개요](_manual/doc/kor/volume/logicaldisk.md)
+    * [3.2  논리 디스크 설정](_manual/doc/kor/volume/logicaldisk.md)
+    * [3.3  논리 볼륨 설정](_manual/doc/kor/volume/logicalvolume.md)
+    * [3.4  Tree Quota 서비스](_manual/doc/kor/volume/treequota.md)
