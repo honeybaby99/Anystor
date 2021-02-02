@@ -16,5 +16,5 @@
    
  \[ 그림 1.1 AnyManager 초기 화면\]
 
-![&#xB85C;&#xADF8;&#xC778;&#xD654;&#xBA74;](../.gitbook/assets/login.png)
+![](../.gitbook/assets/login.png)
 
