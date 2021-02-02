@@ -1,2 +1,2 @@
-# Initial page2
+# AnyStor 관리자 매뉴얼
 
