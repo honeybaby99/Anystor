@@ -12,5 +12,5 @@ AnyManager는 AnyStor NAS의 웹 원격 관리도구 입니다
 > ③ 시스템 관리자의 ID와 암호를 넣으시고 **‘로그인’** 버튼을 누르십시오. 암호는 [[계정]-[관리자]](#54-관리자)  메뉴에서 수정이 가능합니다.<br>
 > ④  시스템 관리자로 초기 암호는 **ID : admin / Password : admin** 입니다
 
-![로그인화면](./images/login.png) <br>
+![&#xB85C;&#xADF8;&#xC778;&#xD654;&#xBA74;](./images/login.png) <br>
  [ 그림 1.1 AnyManager 초기 화면] 
